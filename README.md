@@ -16,7 +16,7 @@ The project showcases:
 
 ## Website Link  
 Visit my updated portfolio website here:  
-🔗 [https://iiekezie.vercel.app/](https://iiekezie.vercel.app/)
+🔗 [https://iiekezie.netlify.app/](https://iiekezie.netlify.app/)
 
 ## Screenshot (Desktop View)  
 
