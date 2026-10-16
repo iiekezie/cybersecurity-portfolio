@@ -16,7 +16,7 @@ The project showcases:
 
 ## Website Link  
 Visit my updated portfolio website here:  
-🔗 [https://https://iiekezie.vercel.app//](https://https://iiekezie.vercel.app//)
+🔗 [//https://iiekezie.vercel.app//](https://iiekezie.vercel.app//)
 
 ## Screenshot (Desktop View)  
 
